@@ -21,4 +21,4 @@
 </div>
 
 ### Projects
-- [OT security]([url](https://github.com/lucasdbrown/ot_security_project))
+- [OT security](https://github.com/lucasdbrown/ot_security_project)
