@@ -21,4 +21,5 @@
 </div>
 
 ### Projects
-- [OT security](https://github.com/lucasdbrown/ot_security_project)
+- [OT Security Project](https://github.com/lucasdbrown/ot_security_project)
+- [Industrial Network Template](https://github.com/lucasdbrown/industrial_network_template)
