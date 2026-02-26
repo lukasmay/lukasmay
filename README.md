@@ -28,3 +28,4 @@
 - [Industrial Network Template](https://github.com/lucasdbrown/industrial_network_template)
 - [FrostyGoop Malware Analysis](https://github.com/lucasdbrown/frostygoop_analysis)
 - [OT Security Interest Group Protocols Meeting | Protocol Demos](https://github.com/lukasmay/protocol_demos)
+- [d-utils](https://github.com/lukasmay/d-utils)
