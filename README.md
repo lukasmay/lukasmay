@@ -25,7 +25,7 @@
 
 ---
 
-### [Blog](https://lukasmay.github.io/)
+### [Blog](https://blog.lukasmay.com)
 
 ### Projects
 - [OT Security Project](https://github.com/lucasdbrown/ot_security_project)
